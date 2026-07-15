@@ -1,0 +1,18 @@
+# Core data / signal processing
+numpy
+pandas
+scipy
+PyWavelets
+antropy
+nolds
+nitime
+spectrum
+pyedflib
+
+# Machine learning / deep learning
+scikit-learn
+tensorflow
+
+# Visualization
+matplotlib
+seaborn
