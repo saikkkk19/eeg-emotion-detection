@@ -21,8 +21,7 @@ My goal is to predict this understanding label from the EEG signal.
 
 ## Pipeline
 
-The notebook [`eeg_filtering_feature_extraction_modeling.ipynb`](eeg_filtering_feature_extraction_modeling.ipynb)
-implements my full pipeline:
+The notebook [`source_code.ipynb`](source_code.ipynb) implements my full pipeline:
 
 ### 1. Preprocessing — filtering
 I apply the following per subject, per EEG channel:
