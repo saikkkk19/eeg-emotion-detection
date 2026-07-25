@@ -4,14 +4,13 @@ In this project I classify whether a student **understood an online lecture** fr
 their raw EEG signals, using classical signal processing for preprocessing and
 feature extraction, and deep learning models for classification.
 
-This is my final-year B.Sc. (AI & DA) project at Hindustan Institute of Technology
-and Science, which I carried out under the guidance of **Dr. S. Kavitha**,
+This is my Internship project at SSN College of Engineering, which I carried out under the guidance of **Dr. S. Kavitha**,
 Associate Professor, Dept. of CSE, SSN College of Engineering (July 2024).
 
 ## Problem
 
 I worked with EEG recordings collected from **8 students** watching online lecture
-videos during the COVID-19 lockdown. For each (subject, video) the data is labelled
+videos. For each (subject, video), the data is labelled
 with a binary target:
 
 - `1` — the subject **understood** the lecture
